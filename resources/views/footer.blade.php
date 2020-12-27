@@ -1,4 +1,4 @@
-<div class="mt-2 card panel-default">
+<div class="mt-2 card panel-default footer">
   <div class="card-header">
     Panel content
   </div>
